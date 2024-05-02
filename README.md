@@ -1,4 +1,4 @@
-# Glioblastoma_P1_AK
+# Glioblastoma Project  
 # Project Overview
 This project employs systems biology methodologies for drug repositioning aimed at developing alternative treatments for Glioblastoma. It utilizes publicly available datasets from the Chinese Glioma Genome Atlas (CGGA) and The Cancer Genome Atlas Program (TCGA) cohorts. Our analyses incorporate several computational techniques to evaluate the efficacy and potential of repurposed drugs.
 
